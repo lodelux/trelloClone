@@ -1,4 +1,4 @@
-# Trello Clone
+# Trello Clone (made by following vueMastery.com tutorial with few personal changes)
 
 ## Project setup
 ```
